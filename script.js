@@ -15,7 +15,7 @@ function setLights(red, yellow, green) {
     greenLight.style.backgroundColor = green;
 }
 
-// baut event listener untuk setiap tombol
+// buat event listener untuk setiap tombol
 redButton.addEventListener('click', () => setLights('red', '#5e5d5d', '#5e5d5d'));
 yellowButton.addEventListener('click', () => setLights('#5e5d5d', 'yellow', '#5e5d5d'));
 greenButton.addEventListener('click', () => setLights('#5e5d5d', '#5e5d5d', 'green'));
