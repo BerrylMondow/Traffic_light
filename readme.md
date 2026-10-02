@@ -23,6 +23,6 @@ Simulasi lampu lalu lintas sederhana yang dibuat menggunakan **HTML, CSS, dan Ja
 
 ## 📁 Struktur File
 
-├── index.html        # Struktur markup utama
-├── style.css         # Styling UI dan warna lampu
-└── script.js        # Logika interaksi JavaScript
+- **index.html**        # Struktur markup utama
+- **style.css**         # Styling UI dan warna lampu
+- **script.js**        # Logika interaksi JavaScript
